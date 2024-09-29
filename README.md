@@ -1,4 +1,4 @@
-# Dash Grabber
+# dash Grabber
 
 ## Features
 
@@ -38,15 +38,12 @@ To build the stub, you need:
 If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
 
 Bitcoin (BTC):
-
 Wallet Address: bc1qcfta9whfcfadyr8znrcf2wq4wrj2j98v50lr2j
 
 Tron (TRX):
-
 Wallet Address: TQAbniV14W7XTNp1TzfX2CAzFZYb46CukA
 
 USDT (Tron network):
-
 Wallet Address: TQAbniV14W7XTNp1TzfX2CAzFZYb46CukA
 
 ## Contact
