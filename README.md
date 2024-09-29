@@ -26,7 +26,7 @@ To build the stub, you need:
 
 ## How to Build
 
-1. Download and install JDK 21 (make sure to enable the "Add to PATH" option).
+1. Download and install JDK 21, make sure to Add to PATH.
 2. Verify the installation by executing `java -version` in CMD.
 3. Clone the repository.
 4. Navigate to your script directory:
